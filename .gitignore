@@ -1,0 +1,4 @@
+#all hiddeb files snd directories
+.*
+#except file .gitignore
+!.gitignore
